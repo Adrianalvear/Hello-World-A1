@@ -1,1 +1,2 @@
 # Hello-World-A1
+In this course, I hope to accomplish and learn all the instruments and tools provided by the professors to design and elaborate a website correctly, use a proper coding structure, innovate designs and fulfill all those areas related to IT.
